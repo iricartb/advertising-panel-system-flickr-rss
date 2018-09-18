@@ -6,7 +6,7 @@ package {
       public static const SCENE_WIDTH: uint = 672;
       public static const SCENE_HEIGHT: uint = 384;
       
-   /*   public static const IMAGES_TRANSITION_EFFECT: String = Transition.TRANSITION_CIRCLE;
+   /* public static const IMAGES_TRANSITION_EFFECT: String = Transition.TRANSITION_CIRCLE;
       public static const IMAGES_TRANSITION_DELAY: Number = 60;            // --> Seconds delay
       public static const EFFECT_FADE_IN_DELAY: uint = 1;                  // --> Nº frames   
       public static const EFFECT_FADE_OUT_DELAY: uint = 1;                 // --> Nº frames
